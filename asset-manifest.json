@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comparador_figurinhas/static/css/main.17fb8d01.css",
+    "main.js": "/comparador_figurinhas/static/js/main.ee447723.js",
+    "index.html": "/comparador_figurinhas/index.html",
+    "main.17fb8d01.css.map": "/comparador_figurinhas/static/css/main.17fb8d01.css.map",
+    "main.ee447723.js.map": "/comparador_figurinhas/static/js/main.ee447723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17fb8d01.css",
+    "static/js/main.ee447723.js"
+  ]
+}
